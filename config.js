@@ -4,16 +4,16 @@ const CONFIG = {
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
     Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi<3',
+    btnIntro: 'rồi sao?',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích em <33',
-    btnNo: 'Không, em ảo tưởng rồi :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho em <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'em biết mà 🥰. Thích piggy nhiều nhiều 😘😘',
+    btnYes: 'Bạn mù quáng thé:)))',
+    btnNo: 'Kệ bạn, bạn làm phiền tôi lắm.',
+    question:'Vũ trụ thì có 4 chiều, xin hỏi chiều thứ 7 Piggy có rảnh khum?',
+    btnReply: 'Lắm trò=))',
+    reply: 'sao thé? rủ đi uống nước à',
+    mess: 'Vậy ý Piggy sao?',
     messDesc: 'giờ rep inbox đi nhó.',
-    btnAccept: 'Oki lun <3',
+    btnAccept: 'Biết ròi',
     messLink: 'http://fb.com/phuongzer0
 }
